@@ -1,30 +1,28 @@
-### Oi! Me chamo Antonio Araujo
-- 🔭 Hoje trabalho com Banco de dados
-- 🌱 Estudando JavaScript e Vue.js 
-- 💻 Entre em contato comigo através de: antoniogaraujo63@gmail.com
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=73F7B8&random=false&width=435&lines=Ol%C3%A1%2C+Bem+vindo+ao+meu+perfil!;Hello%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <div>
-  <a href="https://github.com/antonioArauj"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonioArauj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioArauj&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonioArauj&theme=vue"/>
 </div>
 
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antonioArauj&theme=vue"/>
+     
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antonioArauj&theme=vue"/>
+</div>
 
-<div style = "display: inline_bloc"><br>
-<img align="center" alt="antonioArauj" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="center" alt="antonioArauj" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="antonioArauj" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" alt="antonioArauj" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" alt="antonioArauj" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<div >
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=antonioArauj&theme=vue"/>
+     
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antonioArauj&theme=vue&utcOffset=8"/>
+</div>
+
+<div>
+  <a href="https://www.linkedin.com/in/vinicius-secari/">
+    <img src="https://img.shields.io/badge/LinkedIn-00b598?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
   
   ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/antonio-araujo-303034235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
- ##
 
 ![Green  Geometric Gamer Youtube Banner](https://github.com/antonioArauj/antonioArauj/assets/134645088/d2b9a96f-eedf-4d54-8bca-7035257f5422)
