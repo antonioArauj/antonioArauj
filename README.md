@@ -17,7 +17,7 @@
 </div>
 
 <div>
-  <a href="https://www.linkedin.com/in/vinicius-secari/">
+  <a href="https://www.linkedin.com/in/antonio-araujo-303034235/">
     <img src="https://img.shields.io/badge/LinkedIn-00b598?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
