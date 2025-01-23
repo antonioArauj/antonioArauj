@@ -1,11 +1,11 @@
 
 <div align=center>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=FFF&random=false&width=435&lines=Ol%C3%A1%2C+Bem+vindo+ao+meu+perfil!;Hello%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=696969&random=false&width=435&lines=Ol%C3%A1%2C+Bem+vindo+ao+meu+perfil!;Hello%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
 
   <div>
     <a href="https://www.linkedin.com/in/antonio-araujo-303034235/">
-      <img src="https://github.com/user-attachments/assets/13a875e9-35dd-4b84-9db1-610410bb13ae" width=300 />
+      <img src="https://github.com/user-attachments/assets/d7a6a652-0a14-466e-aa80-938e4602df1e" width=300 />
     </a>
   </div>
       
@@ -34,6 +34,9 @@
   <div>
     <a href="mailto:antoniogaraujo63@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail"/>
+    </a>    
+    <a href="https://www.linkedin.com/in/antonio-araujo-303034235/">
+      <img src="https://skillicons.dev/icons?i=linkedin" target="blank"/>
     </a>
   </div>
 </div>
