@@ -35,8 +35,8 @@
     <a href="mailto:antoniogaraujo63@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail"/>
     </a>    
-    <a href="https://www.linkedin.com/in/antonio-araujo-303034235/">
-      <img src="https://skillicons.dev/icons?i=linkedin" target="_blank"/>
+    <a href="https://www.linkedin.com/in/antonio-araujo-303034235/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
   </div>
 </div>
