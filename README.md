@@ -2,17 +2,28 @@
 <div align=center>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=696969&random=false&width=435&lines=Ol%C3%A1%2C+Bem+vindo+ao+meu+perfil!;Hello%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
-      
-  <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonioArauj&theme=dark"/>
-  </div>
-  
-  ##
-    
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/antonioArauj/antonioArauj/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/antonioArauj/antonioArauj/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonioArauj&theme=dark"/>
 </div>
+
+ ##
+
+<div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antonioArauj&theme=dark"/>
+   
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antonioArauj&theme=dark"/>
+</div>
+
+ ##
+
+<div >
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=antonioArauj&theme=dark"/>
+   
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antonioArauj&theme=dark&utcOffset=8"/>
+</div>
+
+ ##
 
 ###
 
